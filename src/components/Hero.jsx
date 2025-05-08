@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion'
 import { FiGithub, FiLinkedin, FiTwitter } from 'react-icons/fi'
+import myImage from './assets/profile4.jpg';
 
 const Hero = () => {
   return (
@@ -48,7 +49,7 @@ const Hero = () => {
           <div className="flex justify-center order-first md:order-last ">
             <div className="relative w-60 h-60 md:w-72 md:h-72 overflow-hidden rounded-full border-4 border-blue-300">
               <img
-                src="src\assets\profile4.jpg"
+                src={myImage}
                 alt="Profile Photo"
                 className="w-100 h-100 object-cover"
               />
