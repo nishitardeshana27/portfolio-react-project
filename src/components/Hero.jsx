@@ -48,7 +48,7 @@ const Hero = () => {
           <div className="flex justify-center order-first md:order-last ">
             <div className="relative w-60 h-60 md:w-72 md:h-72 overflow-hidden rounded-full border-4 border-blue-300">
               <img
-                src="src\assets\profile4.jpg"
+                src="/profile4.jpg"
                 alt="Profile Photo"
                 className="w-100 h-100 object-cover"
               />
