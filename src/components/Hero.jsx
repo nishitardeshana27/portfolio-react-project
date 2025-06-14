@@ -11,7 +11,7 @@ const Hero = () => {
               Hi, I'm <span className="text-primary">Nishit</span>
             </h1>
             <h2 className="text-xl md:text-2xl text-secondary mb-6">
-              Frontend React Developer
+              React Frontend Developer 
             </h2>
             <p className="text-gray-600 mb-8 max-w-lg">
               A passionate frontend developer specializing in building modern, 

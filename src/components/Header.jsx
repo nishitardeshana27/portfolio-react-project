@@ -15,7 +15,7 @@ const Header = () => {
     <header className="sticky top-0 bg-white shadow-sm z-50">
       <div className="container flex items-center justify-between py-4">
         <a href="#home" className="text-2xl font-bold text-primary">
-          NWeb
+          NISHIT ARDESHANA
         </a>
 
         {/* Desktop Navigation */}
